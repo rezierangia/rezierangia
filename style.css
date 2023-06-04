@@ -1,0 +1,221 @@
+/* header */
+header {
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #2A9D8F;
+    padding: 38px 130px;
+}
+
+.headerlogo {
+
+    vertical-align: middle;
+}
+
+.navlist{ font-family: 'Nerko One', cursive;
+color: #FFFFFF;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+   
+
+}
+
+
+.li1 {
+    display: inline;
+}
+
+    .navbar {
+margin-left: 357px;
+display: inline-block;
+vertical-align: middle;
+
+    }
+
+.middleli {
+    margin-inline: 51px;
+    
+
+}
+
+.button1 {
+    margin-left: 373px;
+    width: 147px;
+    height: 46px;
+    border: none;
+    vertical-align: middle;
+    font-family: 'Poppins', sans-serif;
+    color: #2A9D8F;
+
+    
+
+}
+/* section */
+
+.section1 {
+    width: 780px;
+    margin-inline: auto;
+    /* background-color: aqua; */
+    margin-top: 200px;
+    font-family: 'Nerko One', cursive;
+}
+
+.title1 {
+    color: #4D4D4D;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 130%;
+    font-family: 'Poppins', sans-serif;
+    margin: 200px 548px 60px 548px;
+}
+
+.text1,
+.text2 {
+    margin: 0 330px 52px 330px;
+    font-family: 'Nerko One', cursive;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #656565;
+} 
+
+
+
+
+.section2 {
+    width: 1440px;
+    background-color: #C2F3EE;
+    margin-top: 200px;
+    padding: 80px 130px 80px 130px;
+    margin-inline: auto;
+    font-family: 'Poppins', sans-serif;
+}
+
+.section2div {
+    width: 460px;
+    height: 538px;
+    display: inline-block;
+    margin-left: 110px;
+    vertical-align: top;
+}
+
+.section2header {
+    display: inline-block;
+    font-size: 32px;
+    color: #272727;
+    /* background-color: chartreuse; */
+    margin-bottom: 27px;
+
+}
+
+.section2text {
+    font-weight: 400;
+    font-size: 18px;
+    color: #515151;
+   line-height: 27px;
+}
+
+.section2photo {
+    vertical-align: top;
+}
+
+.button2 {
+    width: 113px;
+    height: 46px;
+    background-color: #2A9D8F;
+    border: none;
+    color: #FFFFFF;
+    margin-top: 56px;
+}
+.section3 {
+    width: 1180px;
+    margin-inline: auto;
+    /* background-color: coral; */
+    margin-top: 200px;
+    font-family: 'Poppins', sans-serif;
+}
+/* .section3 */
+
+.section3header {
+    
+    margin-bottom: 54px;
+    font-weight: 500;
+    font-size: 48px;
+    width: 515px
+}
+
+.section3photo {
+    margin-right: 15px;
+}
+
+.section3text1 {
+    font-weight: 400;
+    font-size: 24px;
+    color: #535353;
+    display: inline-block;
+    margin-right: 180px;
+    margin-top: 32px;
+
+}
+
+.section3text2 {
+    font-weight: 400;
+    font-size: 24px;
+    color: #535353;
+    display: inline-block;
+    margin-top: 32px;
+
+}
+/* footer */
+footer {
+    background-color: #2A9D8F;
+    width: 1440px;
+    margin-inline: auto;
+    padding: 90px 130px 148px 130px;
+    margin-top: 200px;
+    font-family: 'Poppins', sans-serif;}
+
+    .footer {
+    /* background-color:brown; */
+    display: inline-block;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-left: 634px;
+    vertical-align: top;
+}
+.footer2{
+    margin-bottom: 21px;
+    line-height: 27px;
+}
+.footer3{
+    margin-bottom: 8px;
+
+}
+.conteiner{
+    display: inline-block;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-inline:  42px;
+    vertical-align: top;
+    line-height: 27px;
+
+}
+
+.row{
+    display: inline-block;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    vertical-align: top;
+    line-height: 27px;
+
+}
+.footerlogo{
+    vertical-align: top;
+}
+/* title */
+/* მოკლედ ესეთი პრობლემა მაქ microsoft edge რომ იხსნება არანაირი პრონლემა არაა ხოლო
+ chromit-ით როგორცკი ვხსნი არაფერი არ ჩანს მათ შორის არც ფოტოები ძაან ბევრი ვიჩალიჩე და ვერ ვქენი
+მადლობელი დაგრჩები თუ იგივე პროგრამით ნახავ <3 ბოდიში მომავლისთვი ვეცდები გამოვასწორო  */
